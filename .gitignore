@@ -2,3 +2,6 @@
 learning_spark_data/yellow_tripdata_2021-*.csv
 learning_spark_data/*.csv
 learning_spark_data/*.json
+learning_spark_data/
+learning_spark_data/
+learning_spark_data/
